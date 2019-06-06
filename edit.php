@@ -21,7 +21,7 @@ $id = $_GET['id'];
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
         <!-- Bootstrap JS-->
          <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
-        <script src="js/jquery.inputmask.bundle.js"></script>
+        <script src="jquery.inputmask.bundle.js"></script>
 </head>
 <body><div class="container col-md-12">
     <div class="row">
@@ -130,7 +130,7 @@ $id = $_GET['id'];
         </div>
     </div>
 </div>
-<script src='js/script.js'>
+<script src='script.js'>
 
 
 </script>

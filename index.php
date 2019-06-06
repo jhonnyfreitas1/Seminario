@@ -49,9 +49,9 @@ include "init.php";
 								<div class='thumbnail' >
 									<a href="view_user.php?id=<?=$linha1['cliente_id'];?>">
 										<?php if ($linha1['pessoa_tipo'] == "fisica") {?>
-										<img class="card-img-top " style="max-height: 11em;" src="img/logo2.png">
+										<img class="card-img-top " style="max-height: 11em;" src="logo2.png">
 										<?php } else {   ?>
-										<img class="card-img-top " style="max-height: 11em;" src="img/logo1.png">
+										<img class="card-img-top " style="max-height: 11em;" src="logo1.png">
 										<?php }?>	
 									</a>
 								</div>

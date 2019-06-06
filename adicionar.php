@@ -13,7 +13,7 @@
         <!-- Bootstrap JS-->
          <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.0/jquery.mask.js"></script>
 
-        <script src="js/jquery.inputmask.bundle.js"></script>
+        <script src="jquery.inputmask.bundle.js"></script>
         
 
 </head>
@@ -21,7 +21,7 @@
     <div class="row">
         <div class="col-sm-9 col-md-12 col-lg-6      my-5  mx-auto" >
             <div class="card card-signin  " style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);">
-                      <center><img id="logo" style="width: 60%; margin-top: 1em;" class="position-auto" src="img/logo.png"></center>
+                      <center><img id="logo" style="width: 60%; margin-top: 1em;" class="position-auto" src="logo.png"></center>
                 <div class="card-body  col-md-12 col-lg-12">
                    
                         <form method="post" action="cliente_save.php" class="">
@@ -124,7 +124,7 @@
         </div>
     </div>
 </div>
-<script src='js/script.js'>
+<script src='script.js'>
             
 </script>
 </body>
