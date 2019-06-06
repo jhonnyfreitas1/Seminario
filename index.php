@@ -12,7 +12,7 @@ include "init.php";
 		
 		<title>Manter</title>
 	</head>
-	<body style="position:center ;"><center>
+	<body style="position:center; background:red;"><center>
 			<div class="card card-signin col-md-8  m-4 " style="box-shadow: 10px 10px 5px -4px rgba(0,0,0,0.75);">
 		<?php 
 	$conn = getConn();
